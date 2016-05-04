@@ -1,0 +1,2 @@
+# course-artificial-intelligence
+coursework
